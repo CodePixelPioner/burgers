@@ -1,4 +1,4 @@
-## Сборка проекта на Angular и Typescript:
+## Продакшн сборка проекта на Angular и Typescript:
 [codepixelpioner.github.io/burgers/](https://codepixelpioner.github.io/burgers/)
 ## Репозиторий проекта:
 https://github.com/CodePixelPioner/burgers
